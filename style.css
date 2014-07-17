@@ -1,0 +1,189 @@
+/* CSS Document */
+body
+{
+ background:#ffffff;
+padding:0;
+margin:0;
+/*background:url(images/bodybg.jpg) repeat-x;*/
+}
+#footer
+{
+background: url(images/footerbg.jpg) repeat-x;
+height:40px;
+text-align:center;
+color: #FFFFFF;
+font-family:verdana;
+font-size:12px;
+}
+#hh
+{
+font-family:Geneva, Arial, Helvetica, sans-serif;
+text-decoration:none;
+}
+
+.menu ul
+{
+margin:0;
+padding:0;
+list-style-type:none;
+}
+.menu ul li
+{
+float:left;
+display: inline;
+position:relative;
+}
+.menu ul li a
+{
+font-family:verdana;
+color: #aaccff;
+font-size:14px;
+text-decoration:none;
+padding:15px 30px;
+overflow: hidden;
+margin-left:40px;
+font-weight:bold;
+}
+.menu ul li a:visited,.menu ul li a:link
+{
+color: #CC0000;
+}
+.menu ul li a:hover
+{
+color: #0066FF;
+}
+#left
+{
+width:25%;
+-moz-border-radius:10px;
+border-color:#ffffff;
+height:auto;
+padding:0;
+top:0;
+margin:0;
+}
+#right
+{
+width:25%;
+-moz-border-radius:10px;
+border-color:#e9edf0;
+margin:0;
+padding:0;
+background-color:#FFFFFF;
+}
+#center
+{
+width:50%;
+-moz-border-radius:10px;
+border-color:#e9edf0;
+background-color:#e9edf0;
+
+}
+#title
+{
+background: url(images/header-bg.gif) repeat-x;
+width:100%;
+height:33px;
+margin:0;
+padding:0;
+color:#ffffff;
+}
+#ctitle
+{
+background: url(images/header-bg.gif) repeat-x;
+width:100%;
+height:33px;
+margin:0;
+padding:0;
+color:#ffffff;
+text-decoration:none;
+}
+.size
+{
+font-size:12px;
+font-family:Verdana;
+text-decoration:none;
+color:#66CCCC;
+
+}
+.h3
+{
+
+padding:15px;
+color:#FF0000;
+}
+#left ul li
+{
+list-style-image: url(images/ls.png);
+padding:6px 2px 6px 2px;
+border-bottom: 1px dotted #000000;
+}
+#left ul li a
+{
+text-align:center;
+color: #CC0000;
+font-weight:bolder;
+text-decoration:none;
+margin:0;
+}
+#center ul li
+{
+list-style-image: url(images/plus.png);
+padding:6px 2px 6px 2px;
+}
+.text
+{
+border:1px solid #aaccff;
+background-color:#FFFF99;
+font-family:vedana;
+font-weight:bold;
+color: #FF6600;
+font-size:14px;
+}
+.label
+{
+font-family:vedana;
+font-size:14px;
+font-weight:bold;
+color:#009933;
+}
+.back
+{
+background:url(images/img_greenseat.gif) no-repeat;
+}
+.a
+{
+text-decoration:none;
+font-family:verdana;
+font-size:12px;
+color:#FF0000;
+font-weight:bold;
+}
+.greenButton{
+	width:auto;
+	margin:10px 0 0 2px;
+	padding:3px 4px 3px 4px;
+	color:white;
+	background-color:#589d39;
+	outline:none;
+	border:1px solid #006600;
+	font-weight:bold;
+	font-size:12px;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+#head
+{
+background: url(images/h.jpg) repeat-x;
+height:33px;
+margin:0;
+padding:0;
+color:#ffffff;
+}
+.thead
+	{ background: url(images/header-bg.gif) repeat-x;
+	height:26px;
+	color:#FFFFFF;
+	margin-left:5px;
+	}
+
